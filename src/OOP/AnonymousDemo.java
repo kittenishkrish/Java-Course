@@ -15,7 +15,7 @@ public class AnonymousDemo {
 		Cycle c = new Cycle()   // anonymous class
 				{
 					void display() {
-						System.out.println("I am a tricyle");
+						System.out.println("I am a tricycle");
 					}
 				};
 				
